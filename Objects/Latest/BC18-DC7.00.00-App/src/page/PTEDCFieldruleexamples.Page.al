@@ -1,9 +1,9 @@
-page 62000 "DCADV Field rule examples"
+page 62000 "PTE DC Field rule examples"
 {
     ApplicationArea = All;
     Caption = 'Field rule examples';
     PageType = List;
-    SourceTable = "DCADV Field rule examples";
+    SourceTable = "PTE DC Field rule examples";
     UsageCategory = Lists;
     AutoSplitKey = true;
 
@@ -18,7 +18,7 @@ page 62000 "DCADV Field rule examples"
                     Caption = 'Field type';
                     ToolTip = 'Specifies the field type, where this rule is usually used';
                     ApplicationArea = All;
-                    Visible = false;
+                    Visible = true;
                 }
                 field("Line No."; Rec."Line No.")
                 {

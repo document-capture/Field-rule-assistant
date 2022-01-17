@@ -1,4 +1,4 @@
-pageextension 62002 "DCADV Templ. Field Rules Ext." extends "CDC Template Field Rules"
+pageextension 62002 "PTE DC Templ. Field Rules Ext." extends "CDC Template Field Rules"
 {
     actions
     {
@@ -22,8 +22,8 @@ pageextension 62002 "DCADV Templ. Field Rules Ext." extends "CDC Template Field 
 
     local procedure SelectExampleRule()
     var
-        FieldRuleExampleList: Page "DCADV Field rule examples";
-        RuleExample: Record "DCADV Field rule examples";
+        FieldRuleExampleList: Page "PTE DC Field rule examples";
+        RuleExample: Record "PTE DC Field rule examples";
         CDCFieldRule: Record "CDC Template Field Rule";
     begin
         FieldRuleExampleList.LookupMode := true;

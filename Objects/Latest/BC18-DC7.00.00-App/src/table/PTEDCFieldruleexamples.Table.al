@@ -1,4 +1,4 @@
-table 62000 "DCADV Field rule examples"
+table 62000 "PTE DC Field rule examples"
 {
     Caption = 'Field rule examples';
     DataClassification = ToBeClassified;
@@ -6,20 +6,32 @@ table 62000 "DCADV Field rule examples"
 
     fields
     {
-        field(1; "Field Rule Type"; Enum "DCADV Field rule type")
+        field(1; "Field Rule Type"; Enum "PTE DC Field rule type")
         {
             Caption = 'Field rule type';
             DataClassification = ToBeClassified;
+            trigger OnValidate()
+            begin
+                TestField(Rec."System rule", false);
+            end;
         }
         field(2; "Line No."; Integer)
         {
             Caption = 'Line No.';
             DataClassification = ToBeClassified;
+            trigger OnValidate()
+            begin
+                TestField(Rec."System rule", false);
+            end;
         }
         field(3; Rule; Text[100])
         {
             Caption = 'Rule';
             DataClassification = ToBeClassified;
+            trigger OnValidate()
+            begin
+                TestField(Rec."System rule", false);
+            end;
         }
         field(4; Description; Text[200])
         {
@@ -30,6 +42,7 @@ table 62000 "DCADV Field rule examples"
         {
             Caption = 'System rule';
             DataClassification = ToBeClassified;
+            Editable = false;
         }
     }
     keys
@@ -38,7 +51,7 @@ table 62000 "DCADV Field rule examples"
         {
             Clustered = true;
         }
-        key(SK; Rule)
+        key(SK; "Field Rule Type", Rule)
         {
             Clustered = false;
         }
@@ -50,4 +63,14 @@ table 62000 "DCADV Field rule examples"
 
         }
     }
+
+    trigger OnDelete()
+    begin
+        TestField(Rec."System rule", false);
+    end;
+
+    trigger OnRename()
+    begin
+        TestField(Rec."System rule", false);
+    end;
 }

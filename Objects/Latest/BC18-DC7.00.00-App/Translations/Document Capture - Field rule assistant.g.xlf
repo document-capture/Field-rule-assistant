@@ -3,170 +3,170 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Document Capture - Field rule assistant">
     <body>
       <group id="body">
-        <trans-unit id="Table 1879270285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 3896347155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Field rule examples</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table DCADV Field rule examples - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE DC Field rule examples - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1879270285 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 3896347155 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Description</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table DCADV Field rule examples - Field Description - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE DC Field rule examples - Field Description - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1879270285 - Field 2148676032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 3896347155 - Field 2148676032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Field rule type</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table DCADV Field rule examples - Field Field Rule Type - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE DC Field rule examples - Field Field Rule Type - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1879270285 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 3896347155 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Line No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table DCADV Field rule examples - Field Line No. - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE DC Field rule examples - Field Line No. - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1879270285 - Field 2666907530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 3896347155 - Field 2666907530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Rule</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table DCADV Field rule examples - Field Rule - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE DC Field rule examples - Field Rule - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 1879270285 - Field 1684737469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Table 3896347155 - Field 1684737469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>System rule</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table DCADV Field rule examples - Field System rule - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTE DC Field rule examples - Field System rule - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 3830740531" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 3830740531" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Feldwert muss mit "P" beginnen, gefolgt von 8 Ziffern von 0 bis 9.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription1</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription1</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 1793740707" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 1793740707" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Erkennt Zeilen in denen das Feld entweder das Wort "Rechnung" oder das Wort „Gutschrift“ enthält.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription10</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription10</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 2431437324" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 2431437324" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Zeilen überspringen, die das Wort "Zwischensumme" enthalten.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription11</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription11</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 3069133941" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 3069133941" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Zeilen überspringen, in denen das Feld mit dem Wort "Größe" beginnt.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription12</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription12</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 3706830558" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 3706830558" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Filtert Zeilen in denen das Feld mit POS anfängt, gefolgt von 3 Ziffern im Bereich von 0-9</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription13</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription13</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 1448863086" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 1448863086" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Feldwert muss entweder mit "F" oder "R" und "-" beginnen, gefolgt von mindestens 3 Ziffern (0-9).</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription2</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription2</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 811166469" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 811166469" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Der Feldwert muss entweder mit "F" oder "R" und "-" beginnen, gefolgt von 3 bis 5 Stellen (0-9).</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription3</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription3</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 1917650680" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 1917650680" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Feldwert muss mit "I" beginnen, gefolgt von 8 Ziffern von 0 bis 9.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription4</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription4</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 1279954063" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 1279954063" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Der Feldwert muss mit "RG" beginnen, gefolgt von 5 Stellen, dann "X" gefolgt von 1 Stelle.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription5</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription5</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 3193043914" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 3193043914" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Der Feldwert darft nicht "ABC" und nicht "DEF" sein.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription6</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription6</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 2555347297" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 2555347297" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Feldwert muss entweder “Rechnung” oder “Gutschrift” sein.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription7</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription7</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 980075492" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 980075492" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Der Feldwert muss die Zeichen “AG” enthalten.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription8</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription8</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2863111369 - NamedType 342378875" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 1121816063 - NamedType 342378875" maxwidth="100" size-unit="char" translate="yes" xml:space="preserve">
           <source>Erkennt nur Zeilen, in denen das Feld das Wort Rechnung enthält.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit DCADV Field Rule Setup Mgt. - NamedType RuleDescription9</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit PTE DC Field Rule Setup Mgt. - NamedType RuleDescription9</note>
         </trans-unit>
-        <trans-unit id="Page 1879270285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3896347155 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Field rule examples</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Field rule examples - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Field rule examples - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1879270285 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3896347155 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Describes the rule</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Field rule examples - Control Description - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Field rule examples - Control Description - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 1879270285 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3896347155 - Control 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Rule description</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Field rule examples - Control Description - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Field rule examples - Control Description - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1879270285 - Control 2148676032 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3896347155 - Control 2148676032 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the field type, where this rule is usually used</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Field rule examples - Control Field Rule Type - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Field rule examples - Control Field Rule Type - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 1879270285 - Control 2148676032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3896347155 - Control 2148676032 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Field type</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Field rule examples - Control Field Rule Type - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Field rule examples - Control Field Rule Type - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1879270285 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3896347155 - Control 3320823955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the line no. of the current rule</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Field rule examples - Control Line No. - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Field rule examples - Control Line No. - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 1879270285 - Control 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3896347155 - Control 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Line No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Field rule examples - Control Line No. - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Field rule examples - Control Line No. - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1879270285 - Control 2666907530 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3896347155 - Control 2666907530 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the rule</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Field rule examples - Control Rule - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Field rule examples - Control Rule - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 1879270285 - Control 2666907530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3896347155 - Control 2666907530 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Rule</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Field rule examples - Control Rule - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Field rule examples - Control Rule - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1879270285 - Control 1684737469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3896347155 - Control 1684737469 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specefies if the rule has been created by the system during setup</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Field rule examples - Control System rule - Property ToolTip</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Field rule examples - Control System rule - Property ToolTip</note>
         </trans-unit>
-        <trans-unit id="Page 1879270285 - Control 1684737469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Page 3896347155 - Control 1684737469 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>System rule </source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page DCADV Field rule examples - Control System rule - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTE DC Field rule examples - Control System rule - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2918390374 - Action 1396238917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 877840101">
+        <trans-unit id="PageExtension 1873680396 - Action 1396238917 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 877840101">
           <source>Select rule example</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DCADV Templ. Field Rules Ext. - Action ALRSelectFieldRuleExample - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension PTE DC Templ. Field Rules Ext. - Action ALRSelectFieldRuleExample - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Enum 1811138508 - EnumValue 907109761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Enum 1503479318 - EnumValue 907109761 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Header</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Enum DCADV Field rule type - EnumValue Header - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PTE DC Field rule type - EnumValue Header - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Enum 1811138508 - EnumValue 1735507514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Enum 1503479318 - EnumValue 1735507514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Line</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Enum DCADV Field rule type - EnumValue Line - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PTE DC Field rule type - EnumValue Line - Property Caption</note>
         </trans-unit>
       </group>
     </body>

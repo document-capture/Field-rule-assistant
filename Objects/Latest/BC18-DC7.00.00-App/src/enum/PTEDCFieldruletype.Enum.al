@@ -1,4 +1,4 @@
-enum 62000 "DCADV Field rule type"
+enum 62000 "PTE DC Field rule type"
 {
     Extensible = true;
 

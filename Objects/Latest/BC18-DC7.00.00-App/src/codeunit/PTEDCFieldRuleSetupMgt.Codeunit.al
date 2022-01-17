@@ -1,4 +1,4 @@
-codeunit 62001 "DCADV Field Rule Setup Mgt."
+codeunit 62001 "PTE DC Field Rule Setup Mgt."
 {
     Access = Public;
     internal procedure SetupFieldRuleTable()
@@ -19,7 +19,7 @@ codeunit 62001 "DCADV Field Rule Setup Mgt."
 
     local procedure DeleteSystemRules()
     var
-        FieldRuleExample: Record "DCADV Field rule examples";
+        FieldRuleExample: Record "PTE DC Field rule examples";
     begin
         FieldRuleExample.SetRange("System rule", true);
         FieldRuleExample.DeleteAll();
@@ -28,7 +28,7 @@ codeunit 62001 "DCADV Field Rule Setup Mgt."
     local procedure InsertSystemRules()
     var
         LineNo: Integer;
-        FieldRuleType: Enum "DCADV Field rule type";
+        FieldRuleType: Enum "PTE DC Field rule type";
     begin
         InsertRuleExample(LineNo, Rule1, RuleDescription1, FieldRuleType::Header);
         InsertRuleExample(LineNo, Rule2, RuleDescription2, FieldRuleType::Header);
@@ -45,9 +45,9 @@ codeunit 62001 "DCADV Field Rule Setup Mgt."
         InsertRuleExample(LineNo, Rule13, RuleDescription13, FieldRuleType::Line);
     end;
 
-    procedure InsertRuleExample(var LineNo: Integer; Rule: Text[100]; Description: Text[250]; RuleType: Enum "DCADV Field rule type")
+    procedure InsertRuleExample(var LineNo: Integer; Rule: Text[100]; Description: Text[250]; RuleType: Enum "PTE DC Field rule type")
     var
-        FieldRuleExample: Record "DCADV Field rule examples";
+        FieldRuleExample: Record "PTE DC Field rule examples";
     begin
         LineNo += 10000;
         FieldRuleExample."Field rule Type" := RuleType;
